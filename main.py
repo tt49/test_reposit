@@ -1,2 +1,4 @@
-list = [1,2,3,4,5,6,7,8,9]
-[print(item) for  item in list if item>=3]
+class Human:
+    age = 12
+    school = 101
+print(Human.age, Human.school)
